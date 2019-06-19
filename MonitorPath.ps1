@@ -12,9 +12,9 @@ Param (
     
     Write-Host 
     Write-Host "Welcome to Monitor Path"
-    Write-Host "Made by Leandro Carvalho - Dev @ exo"
+    Write-Host "Made by Lecarvalho"
     Write-Host "---"
-    Write-Host "Suivez les Logs ici ou dans le fichier D:\Log\MonitorPath.txt"
+    Write-Host "Follow the logs here or in the log file: D:\Log\MonitorPath.txt"
     Write-Host 
 
 ### DEFINE ACTIONS AFTER AN EVENT IS DETECTED
